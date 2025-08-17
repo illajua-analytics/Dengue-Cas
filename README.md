@@ -10,8 +10,10 @@ The goal is to showcase how **data analytics and visualization** can provide mea
 - **Source:** - <a href="https://github.com/illajua-analytics/Dengue-Cas/blob/main/Dengue%20Project%20Spreadsheet.xlsx">Dataset</a>
 
 ---
+## 📊 Dashboard
+(495)]()
 
-## 🛠️ Tools Used
+## 🛠️ Tools Used and Process
 - **Google Looker Studio** → Dashboard creation and visualization  
 - **Excel** → Data cleaning and preparation  
 - **GitHub** → Documentation and portfolio  
@@ -19,19 +21,22 @@ The goal is to showcase how **data analytics and visualization** can provide mea
 ---
 
 ## 🔎 Key Questions
-- **20,741 total cases** reported across 9 years  
-- **Hotspots:** Cordillera Administrative Region (CAR), Central Visayas, Zamboanga Peninsula  
-- **Seasonality:** Consistent spikes in **March, June, and December**  
-- **Trend:** Peak cases in **2012 (~4,900 cases)**, followed by a steady decline to **~1,000 by 2016**  
+- How have dengue cases changed year-over-year between 2008 and 2016?  
+- Are there seasonal patterns in dengue cases (e.g., certain months with consistent spikes)?
+- Which regions are the most affected by dengue, and how do they compare across years? 
+- How should resources (e.g., hospital beds, medical supplies, awareness campaigns) be allocated regionally?
+- How might the lack of recent data (post-2016) affect our understanding of current dengue trends?
+- Does the decline in cases after 2012 reflect a real improvement or possible under-reporting?
+- What additional data (e.g., rainfall, urban density, population demographics) would strengthen the analysis?
 
 ---
 
 ## 📊 Key Insights
-- KPI cards: Total cases, year-over-year comparison  
-- Line charts: Dengue cases over time (monthly/yearly trends)  
-- Geo heatmap: Regional distribution of cases  
-- Heatmap table: Cases by region and month  
-- Interactive filters (Year, Region) for drill-down analysis  
+- 
+- 
+- 
+- 
+- 
 
 ---
 
