@@ -32,11 +32,13 @@ The goal is to showcase how **data analytics and visualization** can provide mea
 ---
 
 ## 📊 Key Insights
-- 
-- 
-- 
-- 
-- 
+- From 2008 to 2016, dengue cases in the Philippines showed a fluctuating trend, with a significant surge beginning in 2012 and peaking in 2013 at nearly 4,900 cases. After this high point, cases steadily declined through 2016, suggesting either successful interventions or possible gaps in reporting.
+- Seasonality is evident across the data, with cases consistently spiking in March, June, September, and December—months that align with periods of increased rainfall and mosquito breeding activity. In contrast, January, April, and October reported the lowest case counts, highlighting predictable low-transmission windows. Although some Months may fall on the rainy season, Climate Change could be a key factor on the slight inconsistencies of the mosquitoes breeding activity. 
+- Regionally, the Cordillera Administrative Region, Central Visayas, and Western Visayas emerged as the hardest-hit areas, each recording over 1,700 cases, while regions like Bicol, Eastern Visayas, and ARMM reported fewer than 500. During the national surge in 2013, hotspots were particularly concentrated in CAR, Region VI, and Region I, which contributed significantly to the overall increase. It could also be implied that the areas within the regions with high cases enable mosquito breeding which increases the chance of having a DENV carrier.
+- The patterns suggests the need for targeted allocation of resources, intensified vector control, and pre-monsoon awareness campaigns in high-burden areas, sustained baseline interventions in mid-burden regions, and strengthened reporting systems in low-burden areas to ensure accurate surveillance.
+- One limitation of the dataset is its coverage only until 2016, which means recent factors—such as climate variability, urbanization, and post-pandemic shifts in health system reporting—were not captured. 
+- The decline after 2013 may reflect genuine improvements in dengue control but could also indicate under-reporting or changes in surveillance systems. 
+- To strengthen future analyses, complementary datasets should be incorporated, including rainfall and temperature records, population and urban density, hospital admissions, and surveillance completeness. Such data would not only validate observed trends but also improve the ability to forecast outbreaks and design targeted interventions.
 
 ---
 
