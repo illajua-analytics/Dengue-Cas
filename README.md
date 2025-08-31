@@ -11,7 +11,7 @@ The goal is to showcase how **data analytics and visualization** can provide mea
 
 ---
 ## 📊 Dashboard
-https://github.com/illajua-analytics/Dengue-Cases/blob/main/Philippines_Dengue_Cases_2008_-_2016%20(1)_page-0001.jpg
+https://lookerstudio.google.com/reporting/c48452d2-7df7-4610-9513-12e68b517b3f
 
 ## 🛠️ Tools Used and Process
 - **Google Looker Studio** → Dashboard creation and visualization  
